@@ -63,11 +63,12 @@ ITMS detects:
 ---
 
 ## 📷 Screenshots  
-![image](https://github.com/user-attachments/assets/f947fbeb-ca8e-4d39-a5fe-795de8720404)
-![image](https://github.com/user-attachments/assets/531742bb-53b8-4857-8205-fb600bb14419)
-![image](https://github.com/user-attachments/assets/a79bd36f-4c97-48f9-8818-7da0084892a4)
-![image](https://github.com/user-attachments/assets/92ef8bf9-0b97-4f34-997b-290eceff43de)
-![image](https://github.com/user-attachments/assets/dfd4ba88-1ba7-47af-8963-dc387e5c4db2)
+![image](https://github.com/user-attachments/assets/f0aca59e-4a7f-480f-9bde-49a7b2059d7e)
+![image](https://github.com/user-attachments/assets/18d14603-157c-4cd8-a6a9-77c426b16976)
+![image](https://github.com/user-attachments/assets/a5313afa-a5d3-4fac-8825-b14ee5da91aa)
+![image](https://github.com/user-attachments/assets/1f9a5278-441b-4886-8baa-fc6b421967ce)
+![image](https://github.com/user-attachments/assets/d227bce2-7a4a-4493-8c6a-80b0b92cb68e)
+
 
 
 ---
