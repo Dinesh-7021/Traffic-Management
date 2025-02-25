@@ -94,4 +94,4 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 
 ---
 
-🚀 **Let’s revolutionize traffic management with AI!** If you like this project, please ⭐ star the repository. 
+ **Let’s revolutionize traffic management with AI!** If you like this project, please ⭐ star the repository. 
