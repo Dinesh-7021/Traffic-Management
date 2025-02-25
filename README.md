@@ -16,12 +16,12 @@ ITMS detects:
 
 ---
 
-## 🔥 Features  
-🚀 **Real-Time Traffic Monitoring** – Video analytics for instant violation detection  
-🎯 **AI-Powered Detection** – Machine learning models for object recognition  
-📡 **Automated Alerts** – Proximity-based notifications to police stations  
-📊 **Data-Driven Insights** – Logs and reports for better decision-making  
-📲 **User-Friendly Interface** – Web dashboard for easy access and monitoring  
+##  Features  
+-> **Real-Time Traffic Monitoring** – Video analytics for instant violation detection  
+-> **AI-Powered Detection** – Machine learning models for object recognition  
+-> **Automated Alerts** – Proximity-based notifications to police stations  
+-> **Data-Driven Insights** – Logs and reports for better decision-making  
+-> **User-Friendly Interface** – Web dashboard for easy access and monitoring  
 
 ---
 
@@ -37,7 +37,7 @@ ITMS detects:
 
 
 
-## 🚀 Installation & Setup  
+##  Installation & Setup  
 
 1️⃣ **Clone the Repository**  
    ```sh
@@ -74,15 +74,15 @@ ITMS detects:
 ---
 
 ## 🔮 Future Enhancements  
-✨ **Integration with IoT sensors for live traffic updates**  
-✨ **Mobile App for real-time violation alerts**  
-✨ **Payment gateway integration for automatic fines**  
-✨ **Predictive Analytics for traffic congestion management**  
+-> **Integration with IoT sensors for live traffic updates**  
+-> **Mobile App for real-time violation alerts**  
+-> **Payment gateway integration for automatic fines**  
+-> **Predictive Analytics for traffic congestion management**  
 
 ---
 
 ## 🤝 Contributing  
-We welcome contributions! 🚀  
+We welcome contributions!   
 - **Fork the repository** and create a new branch  
 - **Submit a pull request** with detailed explanations  
 - **Report issues** and suggest improvements in the Issues tab  
